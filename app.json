@@ -1,6 +1,6 @@
 {
   "name": "Tree Playground",
-  "description": "[DESCRIPTION]",
+  "description": "Tree Playground is a personal project aimed to explore and play with technologies and platforms such as Heroku, PostgreSQL, Node.js, Express, REST API, JavaScript, EJS (Embedded JavaScript Templates), Bootstrap, and others.",
   "repository": "https://github.com/maumchaves/tree-playground",
   "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
   "keywords": ["node", "express", "heroku"],

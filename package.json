@@ -1,7 +1,7 @@
 {
   "name": "tree-playground",
   "version": "1.0.0",
-  "description": "[DESCRIPTION]",
+  "description": "Tree Playground is a personal project aimed to explore and play with technologies and platforms such as Heroku, PostgreSQL, Node.js, Express, REST API, JavaScript, EJS (Embedded JavaScript Templates), Bootstrap, and others.",
   "engines": {
     "node": "6.11.1"
   },
