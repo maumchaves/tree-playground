@@ -1,13 +1,19 @@
 # Tree Playground
 
-[DESCRIPTION]
+Tree Playground is a personal project aimed to explore and play with technologies and platforms such as Heroku, PostgreSQL, Node.js, Express, REST API, JavaScript, EJS (Embedded JavaScript Templates), Bootstrap, and others.
 
 [Live application here](https://tree-playground.herokuapp.com).
 
-Based on the [getting-Started application provided by Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs).
-Find the original repository [here](https://github.com/heroku/node-js-getting-started).
+Based on the [getting-Started application provided by Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs). Find the original repository [here](https://github.com/heroku/node-js-getting-started).
 
 ## Features
+
+- Rest API to create and get users.
+- Rest API to get, update and delete an user by ID.
+- Simple frontend to login and logout with session management.
+- Rest API to add the `trees-dataset` (already available in the backend) to the database
+- Rest API to get and delete all the trees.
+- Extra SQL database query using PostgreSQL.
 
 ## Documentation
 
