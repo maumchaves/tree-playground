@@ -17,7 +17,10 @@ CREATE TABLE trees (
 
 CREATE EXTENSION pgcrypto;
 
-/* Query */
+/*
+ * Extra query to get the percentage of trees with a scientific name
+ * equal to 'Platanus x hispanica' and a value greater than 5 in 2015.
+ */
 
 SELECT count_total, count_hispanica, (count_hispanica * 100 / count_total) AS percentage
   FROM
